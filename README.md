@@ -53,6 +53,6 @@ I'm particularly interested in projects involving:
 ⭐️ From [reematcs](https://github.com/reematcs)
 
 
-<> ## 📊 GitHub Stats
-<> ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=reematcs&show_icons=true&theme=dracula)
+[//]: <> ## 📊 GitHub Stats
+[//]: <> ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=reematcs&show_icons=true&theme=dracula)
 
