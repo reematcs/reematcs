@@ -37,9 +37,6 @@ Former IT Manager with proven success in virtualization initiatives and enterpri
 - MLOps Implementation
 - Security-First Development
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=reematcs&show_icons=true&theme=dracula)
-
 ## 🌐 Connect With Me
 - LinkedIn: [reematcs](https://www.linkedin.com/in/reematcs)
 - Email: reem.mokhtar@gmail.com
@@ -54,3 +51,8 @@ I'm particularly interested in projects involving:
 
 ---
 ⭐️ From [reematcs](https://github.com/reematcs)
+
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=reematcs&show_icons=true&theme=dracula)
+
