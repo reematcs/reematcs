@@ -27,6 +27,7 @@ Former IT Manager with proven success in virtualization initiatives and enterpri
 - AWS Cloud Practitioner
 - Microsoft Azure Fundamentals (AZ-900)
 - Linux+ (CompTIA)
+- AZ-104: Microsoft Azure Administrator
 
 ## 💼 Key Areas
 - Cloud Architecture & DevOps
